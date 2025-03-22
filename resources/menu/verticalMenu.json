@@ -1,0 +1,16 @@
+{
+  "menu": [
+    {
+      "url": "/dashboard",
+      "name": "Dashboard",
+      "icon": "menu-icon mdi mdi-home-outline",
+      "slug": "dashboard"
+    },
+    {
+      "url": "/search",
+      "icon": "menu-icon mdi mdi-movie-search",
+      "name": "Search Movies",
+      "slug": "search-movies"
+    }
+  ]
+}
